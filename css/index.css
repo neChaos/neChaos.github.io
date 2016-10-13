@@ -2,3 +2,10 @@ body{
 	background: url(/img/bg.jpg) no-repeat;
 	background-size:100% 100%;
 }
+.ng{
+	height:77px;
+	line-height: 77px;
+	font-size: 13px;
+	color:rgb(189,195,199);
+	padding:0 20%;
+}
