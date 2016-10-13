@@ -11,11 +11,15 @@ body{
 	height: 800px;
 }
 .ng{
-	margin-top: 20px;
-	height:77px;
-	line-height: 77px;
+	margin-top: 25px;
 	font-size: 13px;
 	color:rgb(189,195,199);
 	padding:0 20%;
 	background-color: white;
+}
+.ng .ng-list li{
+	display:inline-block;
+	height: 77px;
+	line-height: 77px;
+
 }
