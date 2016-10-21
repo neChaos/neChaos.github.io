@@ -26,7 +26,8 @@ body{
 	float:left;
 	width:150px;
 	height: 77px;
-	background-image: url(/img/logo1.png)
+	background-image: url(/img/logo1.png);
+	background-size: 100% 100%;
 }
 .ng .ng-list li{
 	display:inline-block;
